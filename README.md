@@ -1,6 +1,6 @@
 # Multifield-Dark-Energy
 
-This code solves the general background equations of motion presented in arXiv:2008.13660
+This code solves the general background equations of motion presented in [arXiv:2008.13660](https://arxiv.org/abs/2008.13660)
 
 Main flowchart
 ----------
